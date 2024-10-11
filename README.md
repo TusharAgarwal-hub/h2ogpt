@@ -195,7 +195,7 @@ Many of our customers are creating models and deploying them enterprise-wide and
 
 We are proud to have over 25 (of the world's 280) [Kaggle Grandmasters](https://h2o.ai/company/team/kaggle-grandmasters/) call H2O home, including three Kaggle Grandmasters who have made it to world #1.
 
-### Disclaimer
+### Disclaimer.
 
 Please read this disclaimer carefully before using the large language model provided in this repository. Your use of the model signifies your agreement to the following terms and conditions.
 
